@@ -1,0 +1,20 @@
+.coluna{
+    float: left;
+    width: 28%;
+    margin: 1.5%;
+    padding: 0.5%;
+    text-align: justify;
+    background-color: lightgrey;
+}
+
+.area_coluna{
+    overflow: auto;
+}
+
+h3{
+    background-color: red;
+}
+
+p{
+    text-align: center;
+}
